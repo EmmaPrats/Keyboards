@@ -1063,28 +1063,6 @@ AcDbEntity
 100
 AcDbLine
 10
-65.949974035875897
-20
-60.09999952849563
-30
-0
-11
-65.149974035875914
-21
-60.09999952849563
-31
-0
-0
-LINE
-5
-122
-100
-AcDbEntity
-8
-0
-100
-AcDbLine
-10
 79.949974035875897
 20
 46.100000064937433
@@ -1099,7 +1077,7 @@ AcDbLine
 0
 LINE
 5
-123
+122
 100
 AcDbEntity
 8
@@ -1121,7 +1099,7 @@ AcDbLine
 0
 LINE
 5
-124
+123
 100
 AcDbEntity
 8
@@ -1143,7 +1121,7 @@ AcDbLine
 0
 LWPOLYLINE
 5
-125
+124
 100
 AcDbEntity
 8
@@ -1207,7 +1185,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-126
+125
 100
 AcDbEntity
 8
@@ -1271,7 +1249,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-127
+126
 100
 AcDbEntity
 8
@@ -1335,7 +1313,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-128
+127
 100
 AcDbEntity
 8
@@ -1399,7 +1377,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-129
+128
 100
 AcDbEntity
 8
@@ -1463,7 +1441,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-130
+129
 100
 AcDbEntity
 8
@@ -1527,7 +1505,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-131
+130
 100
 AcDbEntity
 8
@@ -1591,7 +1569,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-132
+131
 100
 AcDbEntity
 8
@@ -1655,7 +1633,7 @@ AcDbPolyline
 0
 LINE
 5
-133
+132
 100
 AcDbEntity
 8
@@ -1677,7 +1655,7 @@ AcDbLine
 0
 LINE
 5
-134
+133
 100
 AcDbEntity
 8
@@ -1699,7 +1677,7 @@ AcDbLine
 0
 LINE
 5
-135
+134
 100
 AcDbEntity
 8
@@ -1721,7 +1699,7 @@ AcDbLine
 0
 LINE
 5
-136
+135
 100
 AcDbEntity
 8
@@ -1743,7 +1721,7 @@ AcDbLine
 0
 LINE
 5
-137
+136
 100
 AcDbEntity
 8
@@ -1765,7 +1743,7 @@ AcDbLine
 0
 LINE
 5
-138
+137
 100
 AcDbEntity
 8
@@ -1787,7 +1765,7 @@ AcDbLine
 0
 LINE
 5
-139
+138
 100
 AcDbEntity
 8
@@ -1809,7 +1787,7 @@ AcDbLine
 0
 LINE
 5
-140
+139
 100
 AcDbEntity
 8
@@ -1831,7 +1809,7 @@ AcDbLine
 0
 LINE
 5
-141
+140
 100
 AcDbEntity
 8
@@ -1853,7 +1831,7 @@ AcDbLine
 0
 LINE
 5
-142
+141
 100
 AcDbEntity
 8
@@ -1875,7 +1853,7 @@ AcDbLine
 0
 LINE
 5
-143
+142
 100
 AcDbEntity
 8
@@ -1897,7 +1875,7 @@ AcDbLine
 0
 LINE
 5
-144
+143
 100
 AcDbEntity
 8
@@ -1919,7 +1897,7 @@ AcDbLine
 0
 LINE
 5
-145
+144
 100
 AcDbEntity
 8
@@ -1941,7 +1919,7 @@ AcDbLine
 0
 LINE
 5
-146
+145
 100
 AcDbEntity
 8
@@ -1963,7 +1941,7 @@ AcDbLine
 0
 LINE
 5
-147
+146
 100
 AcDbEntity
 8
@@ -1985,7 +1963,7 @@ AcDbLine
 0
 LINE
 5
-148
+147
 100
 AcDbEntity
 8
@@ -2007,7 +1985,7 @@ AcDbLine
 0
 LWPOLYLINE
 5
-149
+148
 100
 AcDbEntity
 8
@@ -2071,7 +2049,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-150
+149
 100
 AcDbEntity
 8
@@ -2135,7 +2113,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-151
+150
 100
 AcDbEntity
 8
@@ -2199,7 +2177,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-152
+151
 100
 AcDbEntity
 8
@@ -2263,7 +2241,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-153
+152
 100
 AcDbEntity
 8
@@ -2327,7 +2305,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-154
+153
 100
 AcDbEntity
 8
@@ -2391,7 +2369,7 @@ AcDbPolyline
 0
 LINE
 5
-155
+154
 100
 AcDbEntity
 8
@@ -2413,7 +2391,7 @@ AcDbLine
 0
 LWPOLYLINE
 5
-156
+155
 100
 AcDbEntity
 8
@@ -2477,7 +2455,7 @@ AcDbPolyline
 0
 LWPOLYLINE
 5
-157
+156
 100
 AcDbEntity
 8
@@ -2541,7 +2519,7 @@ AcDbPolyline
 0
 LINE
 5
-158
+157
 100
 AcDbEntity
 8
@@ -2563,7 +2541,7 @@ AcDbLine
 0
 LINE
 5
-159
+158
 100
 AcDbEntity
 8
@@ -2585,7 +2563,7 @@ AcDbLine
 0
 LINE
 5
-160
+159
 100
 AcDbEntity
 8
@@ -2607,7 +2585,7 @@ AcDbLine
 0
 LINE
 5
-161
+160
 100
 AcDbEntity
 8
@@ -2629,7 +2607,7 @@ AcDbLine
 0
 LINE
 5
-162
+161
 100
 AcDbEntity
 8
@@ -2651,7 +2629,7 @@ AcDbLine
 0
 LINE
 5
-163
+162
 100
 AcDbEntity
 8
@@ -2673,7 +2651,7 @@ AcDbLine
 0
 LINE
 5
-164
+163
 100
 AcDbEntity
 8
@@ -2695,7 +2673,7 @@ AcDbLine
 0
 LINE
 5
-165
+164
 100
 AcDbEntity
 8
@@ -2717,7 +2695,7 @@ AcDbLine
 0
 LINE
 5
-166
+165
 100
 AcDbEntity
 8
@@ -2739,7 +2717,7 @@ AcDbLine
 0
 LINE
 5
-167
+166
 100
 AcDbEntity
 8
@@ -2761,7 +2739,7 @@ AcDbLine
 0
 LINE
 5
-168
+167
 100
 AcDbEntity
 8
@@ -2783,7 +2761,7 @@ AcDbLine
 0
 LINE
 5
-169
+168
 100
 AcDbEntity
 8
@@ -2805,7 +2783,7 @@ AcDbLine
 0
 LINE
 5
-170
+169
 100
 AcDbEntity
 8
@@ -2827,7 +2805,7 @@ AcDbLine
 0
 LINE
 5
-171
+170
 100
 AcDbEntity
 8
@@ -2849,7 +2827,7 @@ AcDbLine
 0
 LINE
 5
-172
+171
 100
 AcDbEntity
 8
@@ -2871,7 +2849,7 @@ AcDbLine
 0
 LWPOLYLINE
 5
-173
+172
 100
 AcDbEntity
 8
@@ -3099,7 +3077,7 @@ AcDbPolyline
 0
 LINE
 5
-174
+173
 100
 AcDbEntity
 8
